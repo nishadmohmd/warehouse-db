@@ -1,0 +1,7 @@
+window: 60
+horizon: 5
+mdn_components: 5
+samples: 100
+hidden_size: 96
+layers: 2
+dropout: 0.1

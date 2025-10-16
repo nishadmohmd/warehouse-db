@@ -1,0 +1,17 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.9.2
+numpy==2.1.1
+pandas==2.2.3
+plotly==5.24.1
+streamlit==1.38.0
+requests==2.32.3
+yfinance==0.2.43
+vaderSentiment==3.3.2
+transformers==4.44.2
+scikit-learn==1.5.2
+python-dotenv==1.0.1
+# optional, only if Torch is available in your env
+# You can remove torch if installation is problematic
+# For CPU only:
+# torch==2.4.1
