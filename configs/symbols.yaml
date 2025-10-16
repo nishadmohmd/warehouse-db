@@ -1,0 +1,6 @@
+symbols:
+  - AAPL
+  - MSFT
+  - NVDA
+refresh_seconds: 1
+use_synthetic: true
